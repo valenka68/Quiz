@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Квиз</string>
+    <string name="question_australia">Автор произведения «Кошкин дом» - Маршак.</string>
+    <string name="question_oceans">Единственный в мире продукт, который никогда не портится — это мед.</string>
+    <string name="question_mideast">Звезды — это дети солнца.</string>
+    <string name="question_africa">На вершине горы будет теплее, потому что ближе к солнцу.</string>
+    <string name="question_americas">Лягушки никогда не пьют.</string>
+    <string name="question_asia">Белые медведи имеют черную кожу, а их шерсть прозрачная.</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Не правильно!</string>
+    <string name="next_button">Далее</string>
+</resources>
